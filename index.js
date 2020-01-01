@@ -21,25 +21,3 @@ let letters = "";
     setTimeout(type, 400);
 
 }());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
